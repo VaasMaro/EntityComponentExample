@@ -1,4 +1,4 @@
-# EntityComponentExample
+# EntityComponentProject
 
 
 Hey that's a C++ game engine, a work in progress.
